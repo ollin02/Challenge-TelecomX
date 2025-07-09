@@ -63,9 +63,3 @@ Este informe forma parte del proyecto **"Churn de Clientes"** de la empresa **Te
 - Incentivar el uso de **pagos automáticos** con beneficios adicionales.
 
 ---
-
-## 🚀 Próximos Pasos
-
-- Entrenamiento de modelos predictivos de churn.
-- Segmentación avanzada de clientes para campañas personalizadas.
-- Integración de datos de atención al cliente para enriquecer el análisis.
